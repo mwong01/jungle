@@ -1,3 +1,5 @@
+<% if enhanced_cart.length > 0 %>
+
 <section class="cart-show">
 
   <header class="page-header">
@@ -50,3 +52,9 @@
   </div>
 
 </section>
+
+<% else %>
+  <h1>
+  YOUR CART IS EMPTY! PLEASE VISIT <a href="/">HOMEPAGE</a> TO CONTINUE SHOPPING!
+  </h1>
+<% end %>
