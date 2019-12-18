@@ -22,6 +22,7 @@ A mini e-commerce application built with Rails 4.2.
 ## Stripe Testing
 
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+Alternatively, use Credit Card # 4242 4242 4242 4242, with CVC as any three digits and Expiration Date as any future date. 
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
