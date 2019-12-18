@@ -3,10 +3,10 @@
 A mini e-commerce application built with Rails 4.2.
 
 # Screenshots
-!["Main Homepage"](#)
-!["Main Homepage - Category View"](#)
-!["My Cart"](#)
-!["Order Confirmation"](#)
+!["Main Homepage"](https://github.com/mwong01/jungle/blob/master/docs/1-main-products.png)
+!["Main Homepage - Category View"](https://github.com/mwong01/jungle/blob/master/docs/2-main-categories.png)
+!["My Cart"](https://github.com/mwong01/jungle/blob/master/docs/3-my-cart.png)
+!["Order Confirmation"](https://github.com/mwong01/jungle/blob/master/docs/4-purchase-confirmation.png)
 
 ## Setup
 
